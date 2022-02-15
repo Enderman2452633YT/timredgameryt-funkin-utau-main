@@ -1,0 +1,59 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=100.00
+Tracks=1
+ProjectName=Taki Scream
+VoiceDir=C:\Users\Neeko\Documents\CMPYD\UTAU de famosos\Genshin\Rosaria
+OutFile=C:\Users\Neeko\Documents\Image-Line\FL Studio\Presets\Scores\Crucify\CV Romaji\Taki Scream.wav
+CacheDir=Taki Scream.cache
+Tool1=E:\UTAU Samplers\wavtool4vcv.exe
+Tool2=E:\UTAU Samplers\f2resamp64.exe
+Mode2=True
+[#0000]
+Length=69840
+Lyric=R
+NoteNum=60
+PreUtterance=
+Tempo=100.00
+[#0001]
+Length=240
+Lyric=‚ 
+NoteNum=79
+PreUtterance=
+Intensity=100
+Modulation=0
+PBS=-116;-13
+PBW=0186,81
+PBY=-20,
+[#0002]
+Length=720
+Lyric=R
+NoteNum=79
+PreUtterance=
+[#0003]
+Length=240
+Lyric=‚ 
+NoteNum=79
+PreUtterance=
+Intensity=100
+Modulation=0
+PBS=-116;-13
+PBW=0186,81
+PBY=-20,
+[#0004]
+Length=1680
+Lyric=R
+NoteNum=79
+PreUtterance=
+[#0005]
+Length=240
+Lyric=‚ 
+NoteNum=79
+PreUtterance=
+Intensity=100
+Modulation=0
+PBS=-116;-13
+PBW=0186,81
+PBY=-20,
+[#TRACKEND]
